@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jonas.c.schwegler@gmai.com
+	name = Jonas Schwegler
